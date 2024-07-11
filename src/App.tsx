@@ -4,7 +4,7 @@ import {Name, Description, Links} from "./data"
 
 const LinkComponent = ({content, btnlink}: {content: string, btnlink: string}) => {
   return (
-    <a href={btnlink} className="rounded-xl border-2 border-[#a369f4] shadow-custom-purple py-3 hover:shadow-none hover:translate-y-1 transition text-center font-bold text-lg">
+    <a href={btnlink} target="_blank" className="rounded-xl border-2 border-[#a369f4] shadow-custom-purple py-3 hover:shadow-none hover:translate-y-1 transition text-center font-bold text-lg">
       {content}
     </a>
   )
