@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Oskari';
+    font-weight: 700;
+    src: url("assets/fonts/Oskari G2 Bold.otf") format("opentype");
+}
+
+body {
+    font-family: 'Oskari', sans-serif;
+}
