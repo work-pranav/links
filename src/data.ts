@@ -1,26 +1,14 @@
 export const Name = "Pranav Goel";
 
-export const Description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia perspiciatis maiores, quas atque ratione voluptates deserunt amet facere voluptate sed explicabo esse eaque error dicta, consequuntur impedit. Corrupti, debitis nulla! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia perspiciatis maiores, quas atque ratione voluptates deserunt amet facere voluptate sed explicabo esse eaque error dicta, consequuntur impedit. Corrupti, debitis nulla! "
+export const Description = "I am PG"
 
 export const Links = [
     {
         title: "My Portfolio | CV",
-        link: ""
+        link: "https://www.canva.com/design/DAF9auw5psI/chJNQIVgPqDCk0iJbI5Tvw/view"
     },
     {
-        title: "My Portfolio | CV",
-        link: ""
+        title: "Instagram",
+        link: "https://www.instagram.com/work.pranav/"
     },
-    {
-        title: "My Portfolio | CV",
-        link: ""
-    },
-    {
-        title: "My Portfolio | CV",
-        link: ""
-    },
-    {
-        title: "My Portfolio | CV",
-        link: ""
-    }
 ]
