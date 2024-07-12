@@ -1,4 +1,4 @@
-export const Name = "Pranav Goel";
+export const Name = "PRANAV GOEL";
 
 export const Description = "I am PG"
 
