@@ -1,6 +1,6 @@
 export const Name = "Pranav Goel";
 
-export const Description = "I am a Bachelor of Design (B.Des) student at IIT Hyderabad, passionate about exploring and pushing the boundaries of design. As a creator deeply invested in my learning journey, I have developed expertise in 2D design, 3D design, AR, VR, VFX, game design, and more. My professional journey began as an animator, with a strong focus on AR experimentation. I also served as the Technical (Design) Head of The Commerce Forum, one of our colleges most renowned forums. This role was instrumental in shaping my identity, as it involved constant interaction with people, fostering incredible bondsOver the past five years, I have worked professionally, solving problems and deepening my love for design. Moving forward, I aspire to create designs that inspire and positively impact society."
+export const Description = "I'm a design student at IIT Hyderabad, passionate about 2D/3D design, AR, VR, VFX, and game design. Starting as an animator focused on AR, I have solved various design challenges over the past five years. My goal is to create designs that inspire and positively impact society."
 
 export const Links = [
     {
