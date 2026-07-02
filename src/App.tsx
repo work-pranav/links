@@ -1,5 +1,5 @@
-import pfp from "./assets/pfp-pranav-goel.png"
-import logo from "./assets/pranav-stuff-logo.svg"
+import pfp from "./assets/Pranav-pfp-sq.jpg"
+import logo from "./assets/pranav-logo.svg"
 import {Name, Description, Links} from "./data"
 
 const LinkComponent = ({content, btnlink}: {content: string, btnlink: string}) => {
