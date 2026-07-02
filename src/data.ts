@@ -1,6 +1,6 @@
 export const Name = "Pranav Goel";
 
-export const Description = "I'm a design student at IIT Hyderabad, passionate about 2D/3D design, AR, VR, VFX, and game design. Starting as an animator focused on AR, I have solved various design challenges over the past five years. My goal is to create designs that inspire and positively impact society."
+export const Description = "I'm a multidisciplinary designer specializing in 2D, 3D, AR, VFX, and interactive experiences, with 6+ years of professional experience. My work has contributed to projects for brands including Pepsi, Bacardi, UCB, Patrón, and others, driven by a passion for creating meaningful experiences that leave a lasting impact."
 
 export const Links = [
     {
