@@ -15,7 +15,7 @@ function App() {
     <div className="p-5 max-w-xl mx-auto">
       <div className="rounded-full relative">
         <img src={pfp} alt="pfp-pranav-goel" className="w-3/5 rounded-full mx-auto border border-[#a369f4] ring-2 ring-offset-2 ring-[#a369f4]" />
-        <p className="absolute p-1.5 left-0 right-0 font-bold mx-auto w-32 text-center bottom-0.5 bg-white rounded-md border-2 border-[#a369f4] shadow-custom-purple-short text-lg">{Name}</p>
+        <p className="font-medium absolute p-1.5 left-0 right-0 font-bold mx-auto w-32 text-center bottom-0.5 bg-white rounded-md border-2 border-[#a369f4] shadow-custom-purple-short text-lg">{Name}</p>
         <img src={logo} alt="pranav-stuff-logo.svg" className="absolute w-14 right-0 top-0" />
       </div>
       <p className="-my-6 mx-3 p-3 text-center font-bold pt-8 rounded-3xl border-2 border-[#a369f4] shadow-custom-purple -bottom-[8.5rem] -z-10">{Description}</p>
