@@ -12,14 +12,12 @@
   font-family: 'Oskari';
   src: url("./assets/fonts/Oskari G2 Bold.otf") format("opentype");
   font-weight: 700;
-  font-style: normal;
 }
 
 @font-face {
   font-family: 'Oskari';
   src: url("./assets/fonts/Oskari G2 Medium.otf") format("opentype");
   font-weight: 500;
-  font-style: normal;
 }
 
 body {
