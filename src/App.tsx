@@ -12,7 +12,7 @@ const LinkComponent = ({content, btnlink}: {content: string, btnlink: string}) =
 
 function App() {
   return (
-    <div className="p-5 max-w-xl mx-auto">
+    <div className="font-medium p-5 max-w-xl mx-auto">
       <div className="rounded-full relative">
         <img src={pfp} alt="pfp-pranav-goel" className="w-3/5 rounded-full mx-auto border border-[#a369f4] ring-2 ring-offset-2 ring-[#a369f4]" />
         <p className="font-medium absolute p-1.5 left-0 right-0 font-bold mx-auto w-32 text-center bottom-0.5 bg-white rounded-md border-2 border-[#a369f4] shadow-custom-purple-short text-lg">{Name}</p>
